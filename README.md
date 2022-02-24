@@ -11,14 +11,12 @@
 <br>
 
 ## 📊 Github Stats
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
+  <p align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabianshrewd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Fabianshrewd" height="192px"/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabianshrewd&theme=algolia" alt="Fabianshrewd" /></p>
 
 <a align="center" href="https://github.com/Fabianshrewd"><img alt="Fabianshrewd's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabianshrewd&custom_title=Fabianshrewd's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
