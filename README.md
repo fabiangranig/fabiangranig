@@ -3,7 +3,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: Currently studying in HTL-Wolfsberg.
+- :school: Currently studying at HTL-Wolfsberg.
 - :trophy: Doing different coding challenges.
 - :technologist: Working with C#
 - :nerd_face: Always learning new things.
