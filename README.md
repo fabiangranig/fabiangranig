@@ -2,14 +2,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Fabianshrewd&label=Profile%20views&color=0e75b6&style=plastic" alt="Fabianshrewd" /> 
-	<a href = "https://commits.top/austria.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="FabianShrewd" target="_blank"/> 
-	</a>
-</p>
-
-
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
 - :trophy: `ACPC` Finalist 2021
