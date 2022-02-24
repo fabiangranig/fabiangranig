@@ -3,13 +3,10 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: 
-- :trophy: 
-- :technologist: 
-- :computer: 
-- :student: 
-- :thinking: 
-- :nerd_face: 
+- :school: Currently studying in HTL-Wolfsberg.
+- :trophy: Doing different coding challenges.
+- :technologist: Working with C#
+- :nerd_face: Always learning new things.
 
 <br>
 
@@ -24,18 +21,16 @@
   <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabianshrewd&theme=algolia" alt="Fabianshrewd" /></p>
 
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Fabianshrewd"><img alt="Fabianshrewd's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabianshrewd&custom_title=Fabianshrewd's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 ----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Fabianshrewd"><img alt="Fabianshrewd's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabianshrewd&custom_title=Fabianshrewd's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
 
 ## :trophy: Git profile Trophies
 
