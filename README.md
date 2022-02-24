@@ -13,7 +13,7 @@
 ## 📊 Github Stats
 <br/>
   <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabianshrewd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Fabianshrewd" height="192px"/>
 
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
