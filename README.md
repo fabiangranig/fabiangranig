@@ -11,7 +11,7 @@
 <br>
 
 ## 📊 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabianshrewd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Fabianshrewd" height="192px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabianshrewd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Fabianshrewd" height="192px"/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabianshrewd&theme=algolia" alt="Fabianshrewd" /></p>
 
 <a align="center" href="https://github.com/Fabianshrewd"><img alt="Fabianshrewd's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabianshrewd&custom_title=Fabianshrewd's%20Contribution%20Graph&theme=react-dark" /></a>
