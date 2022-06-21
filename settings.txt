@@ -4,3 +4,6 @@ mono hello.exe
 
 //See Github Contribution graph
 git log --oneline --abbrev-commit --all --graph
+
+//See Differences between two branches
+git difference [branch1] [branch2] (--name-only)
