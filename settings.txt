@@ -1,3 +1,6 @@
 //Mono Compiler
 mcs -out:hello.exe hello.cs
 mono hello.exe
+
+//See Github Contribution graph
+git log --oneline --abbrev-commit --all --graph
