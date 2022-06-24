@@ -7,3 +7,12 @@ git log --oneline --abbrev-commit --all --graph
 
 //See Differences between two branches
 git difference [branch1] [branch2] (--name-only)
+
+//Curl fast speedtest command
+curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
+
+//Minecraft Server starten
+java -Xmx1024M -Xms1024M -jar server.jar nogui
+
+//Teamspeak Server aufsetzen
+https://www.bennetrichter.de/anleitungen/teamspeak3-server-linux/
