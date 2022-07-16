@@ -8,6 +8,9 @@ git log --oneline --abbrev-commit --all --graph
 //See Differences between two branches
 git difference [branch1] [branch2] (--name-only)
 
+//Name an CLI Screen
+Screen -S <Name>
+
 //Curl fast speedtest command
 curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
 
