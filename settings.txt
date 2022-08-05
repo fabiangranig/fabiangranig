@@ -1,3 +1,15 @@
+//Ubuntu commands
+//Ubuntu commands
+//Ubuntu commands
+//Removing dir
+rm -r <filename>
+
+//Switch to root
+sudo su
+
+//Check listening port
+sudo lsof -i -P -n | grep LISTEN
+
 //Mono Compiler
 mcs -out:hello.exe hello.cs
 mono hello.exe
@@ -8,14 +20,34 @@ git log --oneline --abbrev-commit --all --graph
 //See Differences between two branches
 git difference [branch1] [branch2] (--name-only)
 
-//Name an CLI Screen
-Screen -S <Name>
+//name of CLI Screen
+Screen -S <name>
 
 //Curl fast speedtest command
 curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
 
-//Minecraft Server starten
+//Server
+//Server
+//Server
+//all Minecraft versions
+https://mcversions.net
+
+//Tutorial: How to create an minecraft server
+https://www.digitalocean.com/community/tutorials/how-to-create-a-minecraft-server-on-ubuntu-22-04
+
+//Start the minecraft server
 java -Xmx1024M -Xms1024M -jar server.jar nogui
 
-//Teamspeak Server aufsetzen
+//Set up Teamspeak Server
 https://www.bennetrichter.de/anleitungen/teamspeak3-server-linux/
+
+//list for download repository
+//list for download repository
+//list for download repository
+https://gist.github.com/MayankFawkes/132b1396c4f18a96b14cc831f42cc838
+
+//informations
+//informations
+//informations
+//Oracle cloud pricing
+https://www.oracle.com/in/cloud/networking/pricing/
