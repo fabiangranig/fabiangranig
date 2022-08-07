@@ -1,11 +1,17 @@
 //Ubuntu commands
 //Ubuntu commands
 //Ubuntu commands
+//Linux check architecure
+uname -i
+
 //Removing dir
 rm -r <filename>
 
 //Switch to root
 sudo su
+
+//Restart an service
+sudo service apache2 reload
 
 //Check listening port
 sudo lsof -i -P -n | grep LISTEN
@@ -13,6 +19,9 @@ sudo lsof -i -P -n | grep LISTEN
 //Mono Compiler
 mcs -out:hello.exe hello.cs
 mono hello.exe
+
+//Git clone without Top Folder
+git clone <origin-url> .
 
 //See Github Contribution graph
 git log --oneline --abbrev-commit --all --graph
@@ -40,6 +49,16 @@ java -Xmx1024M -Xms1024M -jar server.jar nogui
 
 //Set up Teamspeak Server
 https://www.bennetrichter.de/anleitungen/teamspeak3-server-linux/
+
+//Apache2 & Wordpress
+https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview
+
+//CSGO Server
+https://unixcop.com/install-counter-strike-server-ubuntu-deban/
+https://www.linuxandubuntu.com/home/how-to-host-counter-strike-global-offensive-server
+
+//Gamemode Config
+https://developer.valvesoftware.com/wiki/CS:GO_Game_Modes
 
 //list for download repository
 //list for download repository
