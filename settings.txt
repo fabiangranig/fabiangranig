@@ -70,3 +70,6 @@ https://gist.github.com/MayankFawkes/132b1396c4f18a96b14cc831f42cc838
 //informations
 //Oracle cloud pricing
 https://www.oracle.com/in/cloud/networking/pricing/
+
+//Check an shortlink URL
+https://checkshorturl.com/expand.php
