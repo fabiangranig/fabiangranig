@@ -29,6 +29,10 @@ git log --oneline --abbrev-commit --all --graph
 //See Differences between two branches
 git difference [branch1] [branch2] (--name-only)
 
+//Show changes since last commit
+git diff HEAD
+git diff --cached
+
 //name of CLI Screen
 Screen -S <name>
 
