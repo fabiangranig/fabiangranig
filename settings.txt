@@ -77,3 +77,13 @@ https://www.oracle.com/in/cloud/networking/pricing/
 
 //Check an shortlink URL
 https://checkshorturl.com/expand.php
+
+//System tests
+//System tests
+//System tests
+//Check audio
+https://www.youtube.com/watch?v=YRSIvFOzRBs
+https://www.youtube.com/watch?v=ucZl6vQ_8Uo
+
+//Check Reaction Time
+https://humanbenchmark.com/tests/reactiontime/
