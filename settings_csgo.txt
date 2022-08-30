@@ -1,3 +1,26 @@
+//Commands
+//Commands
+//Commands
+//Disable HUD and only show death notices
+cl_draw_only_deathnotices 1
+
+//Get position
+spec_pos
+
+//Get an flying camera
+spec_goto <spec_pos>; spec_lerpto <spec_pos> <time> <time>
+
+//Record demo
+record <name>
+stop
+
+//Get access to server from client
+rcon password <password>
+rcon <command>
+
+//Game settings
+//Game settings
+//Game settings
 //Volume
 volume 0.11
 
