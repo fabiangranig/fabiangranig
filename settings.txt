@@ -33,6 +33,9 @@ git difference [branch1] [branch2] (--name-only)
 git diff HEAD
 git diff --cached
 
+//Create a new remote branch git
+https://www.w3docs.com/snippets/git/how-to-create-a-remote-branch-in-git.html
+
 //name of CLI Screen
 Screen -S <name>
 
