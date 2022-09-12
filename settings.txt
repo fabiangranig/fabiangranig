@@ -90,3 +90,6 @@ https://www.youtube.com/watch?v=ucZl6vQ_8Uo
 
 //Check Reaction Time
 https://humanbenchmark.com/tests/reactiontime/
+
+//Check json file
+https://jsoncrack.com/editor
