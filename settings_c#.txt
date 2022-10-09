@@ -6,3 +6,6 @@ List<var> name = new List<var>();   #Creating an list
 name.Add(var);                      #Add one item to the list
 name.Sort(var);                     #Sort the list (ASC)
 name.Reverse(var);                  #Reverse the list
+
+//Get information of an JSON string
+https://zetcode.com/csharp/json/

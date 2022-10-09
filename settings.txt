@@ -10,6 +10,9 @@ rm -r <filename>
 //Switch to root
 sudo su
 
+//Get rights for .sh file
+https://askubuntu.com/questions/409025/permission-denied-when-running-sh-scripts
+
 //Restart an service
 sudo service apache2 reload
 
@@ -32,6 +35,9 @@ git difference [branch1] [branch2] (--name-only)
 //Show changes since last commit
 git diff HEAD
 git diff --cached
+
+//Delete all current changes from git
+git reset --hard && git clean -f
 
 //Create a new remote branch git
 https://www.w3docs.com/snippets/git/how-to-create-a-remote-branch-in-git.html
