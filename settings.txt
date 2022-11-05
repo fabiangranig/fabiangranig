@@ -48,6 +48,10 @@ Screen -S <name>
 //Curl fast speedtest command
 curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
 
+//Renew https certificates
+certbot certificates
+sudo certbot renew --force-renewal
+
 //Server
 //Server
 //Server
