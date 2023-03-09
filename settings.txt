@@ -61,6 +61,12 @@ https://mcversions.net
 //Tutorial: How to create an minecraft server
 https://www.digitalocean.com/community/tutorials/how-to-create-a-minecraft-server-on-ubuntu-22-04
 
+//Change Java Versions
+sudo update-alternatives --config java
+
+//Install minecraft server (Optional)
+java -jar <name-of-installer>.jar --installServer
+
 //Start the minecraft server
 java -Xmx1024M -Xms1024M -jar server.jar nogui
 
