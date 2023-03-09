@@ -109,3 +109,6 @@ https://humanbenchmark.com/tests/reactiontime/
 
 //Check json file
 https://jsoncrack.com/editor
+
+//Monopoly - missing dependency fix
+https://steamcommunity.com/app/562810/discussions/1/4997318143947202160/#c3413182128721307420
