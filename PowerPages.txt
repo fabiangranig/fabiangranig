@@ -1,0 +1,6 @@
+Visual Studio Commit/Push:
+pac auth create -u <Power Pages URL>
+pac pa portal list
+pac paportal download --path <Pfad> -id <ID>
+pac paportal download --path <Pfad> -id <ID> -o
+pac paportal upload --path <Pfad>
