@@ -52,6 +52,12 @@ curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.p
 certbot certificates
 sudo certbot renew --force-renewal
 
+//Windows Commands
+//Windows Commands
+//Windows Commands
+//Download Youtube Video with Tool
+yt-dlp_x86.exe -x --audio-format 3 <Link>
+
 //Server
 //Server
 //Server
