@@ -52,6 +52,9 @@ curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.p
 certbot certificates
 sudo certbot renew --force-renewal
 
+//Subnet Calc
+subnetcalc IP/CIDR
+
 //Windows Commands
 //Windows Commands
 //Windows Commands
