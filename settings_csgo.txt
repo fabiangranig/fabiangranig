@@ -26,3 +26,6 @@ volume 0.11
 
 //Sensitivity
 sensitivity 2.6
+
+//Disable new Bob (new Bob looks like riding an horse)
+cl_usenewbob 0
