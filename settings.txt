@@ -61,6 +61,10 @@ subnetcalc IP/CIDR
 //Download Youtube Video with Tool
 yt-dlp_x86.exe -x --audio-format 3 <Link>
 
+//Open Edge in Post Installation
+Windows + R
+msedge
+
 //Server
 //Server
 //Server
