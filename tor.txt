@@ -1,0 +1,5 @@
+//Get the app for tor
+https://wiki.tox.chat/users/tox_over_tor_tot#:~:text=Launch%20uTox%2C%20and%20navigate%20to%20settings%20by%20clicking,the%20port%20%289150%20if%20you%20use%20Tor%20Browser%29.
+
+//The connection can be used as sock5 with following ip and port
+127.0.0.1:9050
