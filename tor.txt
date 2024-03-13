@@ -3,3 +3,6 @@ https://wiki.tox.chat/users/tox_over_tor_tot#:~:text=Launch%20uTox%2C%20and%20na
 
 //The connection can be used as sock5 with following ip and port
 127.0.0.1:9050
+
+//tox
+qtox is more stable than utox
