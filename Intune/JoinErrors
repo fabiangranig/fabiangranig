@@ -1,0 +1,5 @@
+Case: Error 0x80180014
+Solution: Remove device from autopilot and readd to autopilot
+
+Case: Enrollment Error @ Apps -> 0x81036502
+Solution: happens when there is no user input while enrollment
