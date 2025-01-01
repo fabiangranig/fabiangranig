@@ -1,0 +1,2 @@
+//Remove role by time query
+(user.employeeHireDate -ge system.now -minus p1d) and (user.displayName -eq "User1")
