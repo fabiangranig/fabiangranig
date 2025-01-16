@@ -1,0 +1,11 @@
+zeek -v
+sudo zeekctl start/stop/status
+zeek -C -r *.pcap
+zeek-cut
+wc -l
+grep '*'
+uniq
+uniq -c
+zeek -C -r *.pcap -s *.sig
+zeek -C -r *.pcap *.zeek
+zeek -C -r *.pcap local <- all base scripts

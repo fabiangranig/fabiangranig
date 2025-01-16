@@ -1,0 +1,16 @@
+snort -V
+sudo snort -c *.conf -T
+sudo snort -v -i <interfaces>
+
+sudo snort -r *.log -X
+sudo snort -r *.log icmp
+sudo snort -r *.log tcp
+sudo snort -r *.log 'udp and port *'
+
+snort -dvr *.log -n 10
+sudo snort -c *.conf -A full
+
+alert tcp any any <> any 21 (msg: "ALERT";  content:"*"; sid:*; rev:*;)
+alert tcp any any <> any 80 (msg: "ALERT";  sid: *; rev:*;)
+alert tcp any any <> any any (msg: "ALERT"; flags:PA;  sid: *; rev:*;)
+alert udp any any <> any any (msg: "ALERT"; sameip;  sid: *; rev:*;)
