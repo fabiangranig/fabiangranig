@@ -1,0 +1,25 @@
+https://github.com/volatilityfoundation/volatility3
+
+VMWare - .vmem
+Hyper-V - .bin
+Parallels - .mem
+VirtualBox - .sav file *this is only a partial memory file
+
+.windows
+.linux
+.mac
+
+imageinfo
+
+python3 vol.py -f <file> windows.info
+python3 vol.py -f <file> windows.pslist
+python3 vol.py -f <file> windows.psscan
+python3 vol.py -f <file> windows.pstree
+python3 vol.py -f <file> windows.netstat
+python3 vol.py -f <file> windows.dlllist
+python3 vol.py -f <file> windows.malfind
+python3 vol.py -f <file> windows.yarascan
+python3 vol.py -f <file> windows.ssdt 
+python3 vol.py -f <file> windows.modules
+python3 vol.py -f <file> windows.driverscan
+python3 vol.py -f <file> windows.filescan

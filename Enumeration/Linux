@@ -1,0 +1,30 @@
+/etc/os-release
+cat /etc/passwd| column -t -s :
+/etc/shadow
+/etc/group
+/etc/sudoers
+sudo last -f /var/log/wtmp
+cat /var/log/auth.log |tail
+
+/etc/hostname
+cat /etc/timezone
+cat /etc/network/interfaces
+ip address show 
+netstat -natp
+ps aux
+cat /etc/hosts
+cat /etc/resolv.conf 
+
+cat /etc/crontab 
+ls /etc/init.d/
+cat ~/.bashrc
+/etc/bash.bashrc
+/etc/profile
+
+cat /var/log/auth.log* |grep -i COMMAND|tail
+cat ~/.bash_history -> each users home directory
+cat ~/.viminfo
+
+cat /var/log/syslog* | head
+cat /var/log/auth.log* |head
+ls /var/log

@@ -1,0 +1,31 @@
+osqueryi
+.help
+.tables process
+.tables user
+.schema table_name
+select gid, uid, description, username, directory from users;
+.mode MODE       Set output mode where MODE is one of:
+                   csv      Comma-separated values
+                   column   Left-aligned columns see .width
+                   line     One value per line
+                   list     Values delimited by .separator string
+                   pretty   Pretty printed SQL results (default)
+
+SELECT * FROM programs LIMIT 1;
+SELECT name, version, install_location, install_date from programs limit 1;
+SELECT count(*) from programs;
+SELECT * FROM users WHERE username='James';
+
+= [equal]
+<>  [not equal]
+>, >= [greater than, greater than, or equal to]
+<, <= [less than or less than or equal to] 
+BETWEEN [between a range]
+LIKE [pattern wildcard searches]
+% [wildcard, multiple characters]
+_ [wildcard, one character]
+
+%: Match all files and folders for one level.
+%%: Match all files and folders recursively.
+%abc: Match all within-level ending in "abc".
+abc%: Match all within-level starting with "abc".
