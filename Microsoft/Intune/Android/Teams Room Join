@@ -1,0 +1,8 @@
+Requirements:
+Device Restriction Enrollement MDM -> Set to enabled
+Set corporate identifiers
+
+https://learn.microsoft.com/en-us/microsoftteams/devices/mtra-panels-deploy
+https://learn.microsoft.com/en-us/microsoftteams/rooms/android-migration-guide
+https://learn.microsoft.com/en-us/microsoftteams/rooms/supported-ca-and-compliance-policies?tabs=mtr-a-da
+https://techcommunity.microsoft.com/blog/microsoftteamssupport/moving-teams-android-devices-to-aosp-device-management/4140893

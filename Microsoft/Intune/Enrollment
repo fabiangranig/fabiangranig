@@ -1,3 +1,5 @@
 Before Enrollment:
 -Add devie to autopilot
 -set properties (device name, tag)
+
+https://learn.microsoft.com/de-de/intune/intune-service/enrollment/device-enrollment-manager-enroll
