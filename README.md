@@ -3,7 +3,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: Currently studying at HTL-Wolfsberg.
+- :school: Currently studying.
 - :trophy: Doing different coding challenges.
 - :technologist: Working with C#
 - :nerd_face: Always learning new things.
@@ -13,7 +13,7 @@
 ## 📊 Github Stats
 <br/>
   <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabianshrewd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Fabianshrewd" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiangranig&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fabiangranig" height="192px"/>
 
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
