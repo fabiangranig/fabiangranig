@@ -1,0 +1,10 @@
+if(<Condition>) 
+{ 
+    #Exits without doing the remediation
+    exit 0 
+} 
+else 
+{ 
+    #Starts the remediation
+    exit 1 
+} 

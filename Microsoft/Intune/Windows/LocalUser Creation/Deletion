@@ -1,0 +1,2 @@
+New-LocalUser -Name "<Name>" -NoPassword
+Remove-LocalUser -Name "<Name>"

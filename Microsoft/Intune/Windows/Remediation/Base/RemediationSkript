@@ -1,0 +1,2 @@
+#Everything in here will be executed if the Detection exits with 1
+Write-Output "Test"

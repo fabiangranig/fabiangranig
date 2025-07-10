@@ -1,0 +1,8 @@
+if ((Get-LocalUser).Name -contains "<Name>") 
+{ 
+    exit 0 
+} 
+else 
+{ 
+    exit 1 
+}
