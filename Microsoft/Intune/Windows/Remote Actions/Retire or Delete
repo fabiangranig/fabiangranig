@@ -1,0 +1,4 @@
+removes Intune connection
+removes Entra connection
+does not remove personal files
+login only possible with local account

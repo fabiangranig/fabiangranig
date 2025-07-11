@@ -1,0 +1,9 @@
+if ((Get-LocalUser).Name -contains "<Name>" -or (Get-LocalUser).Name -like "*<Name>*")
+{
+    (Get-LocalUser).Name
+    exit 1
+}
+else
+{
+    exit 0
+}

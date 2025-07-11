@@ -1,0 +1,14 @@
+https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/devices-wipe
+Windows PC Reset as in Windows Settings
+retains some files
+security higher priority
+reinstalls windows (from Windows Component Store)
+
+Retain Data (when user keeps device):
+-keeps Intune Connection
+-keeps Entra Connection
+-keeps same device (takes time to refresh everything in Intune Portal)
+
+Do not Retain Data (when device changes user):
+-Intune connection removed
+-Entra connection removed

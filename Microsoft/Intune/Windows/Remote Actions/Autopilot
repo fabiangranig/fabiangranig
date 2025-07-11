@@ -1,0 +1,7 @@
+when pc stays at the same user (but there is not a lot setup time)
+only removes user data
+does not reset drives
+often won't work
+keeps intune connection
+removes entra connection
+security lower priority

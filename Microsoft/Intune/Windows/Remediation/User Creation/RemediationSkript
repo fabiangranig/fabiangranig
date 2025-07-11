@@ -1,0 +1,1 @@
+New-LocalUser -Name <Name> -Description "User Account" -NoPassword
